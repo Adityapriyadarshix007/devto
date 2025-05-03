@@ -8,8 +8,6 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
-
 Simply visit the devto-two.vercel.app and start prompting.
 
 **Use your preferred IDE**
