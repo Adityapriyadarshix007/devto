@@ -56,6 +56,12 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## What new features have been added?
+- CREATE POST - which allows you to create the post.
+- dark mode - changes the ui.
+
+
+
 ## How can I deploy this project?
 
 Simply open devto-two.vercel.app
