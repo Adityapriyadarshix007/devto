@@ -66,10 +66,6 @@ This project is built with:
 
 Simply open devto-two.vercel.app
 
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: devto-two.vercel.app
